@@ -1,0 +1,10 @@
+101;Camiseta básica blanca;25000
+102;Jeans slim fit azules;48000
+103;Zapatos de vestir negros;85000
+104;Chaqueta de cuero marrón;120000
+105;Bolso de mano de cuero negro;160000
+106;Bufanda de lana gris;18000
+107;Gorra de béisbol roja;25000
+108;Gafas de sol estilo aviador;65000
+109;Reloj de pulsera analógico;89000
+110;Pendientes de plata con perlas;75000

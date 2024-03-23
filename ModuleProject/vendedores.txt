@@ -1,0 +1,7 @@
+CC;123456789;Juan;González
+CC;987654321;María;López
+CC;246813579;Carlos;Martínez
+CC;135792468;Ana;Rodríguez
+CC;864209753;Pedro;Sánchez
+CC;753951468;Luisa;Gómez
+CC;369258147;Sofía;Pérez
